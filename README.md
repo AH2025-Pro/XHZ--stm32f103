@@ -1,2 +1,2 @@
-# XHZ--stm32f103
+# XHZ--stm32f103RET6
 
